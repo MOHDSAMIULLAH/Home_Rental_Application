@@ -1,6 +1,6 @@
 # Home Rentals Application
 
-## Deployed Link  [My Dream House]https://home-rental-application-dun.vercel.app/
+## Deployed Link : https://home-rental-application-dun.vercel.app/
 
 ![image](https://github.com/MOHDSAMIULLAH/Home_Rental_Application_Frontend/assets/91786605/a32c91a8-6067-43a1-b21e-ee98588b6433)
 
